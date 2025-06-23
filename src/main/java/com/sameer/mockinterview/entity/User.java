@@ -30,5 +30,4 @@ public class User {
     private Role role;
 
     private Boolean enabled = true;
-
 }
